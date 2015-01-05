@@ -4,7 +4,7 @@ These are the solutions of the algotrithmic problems of HackerRank.
 
 ## Warmup
 
-[Find Digits](https://www.hackerrank.com/challenges/find-digits): [Python2](warmup/python2/find-digits.py) - [Python3](warmup/python3/find-digits.py) - [Java](warmup/java/find-digits.py)
+[Find Digits](https://www.hackerrank.com/challenges/find-digits): [Python2](warmup/python2/find-digits.py) - [Python3](warmup/python3/find-digits.py) - [Java](warmup/java/Find_Digits/Solution.java)
 
 [Is Fibo](https://www.hackerrank.com/challenges/is-fibo): [Python2](warmup/python2/is-fibo.py)
 
