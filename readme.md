@@ -14,4 +14,4 @@ These are the solutions of the algotrithmic problems of HackerRank.
 
 [Flipping Bits](https://www.hackerrank.com/challenges/flipping-bits): [Python2](warmup/python2/flipping-bits.py) [Python3](warmup/python3/flipping-bits.py)
 
-[Alternating Characters](https://www.hackerrank.com/challenges/alternating-characters): [Python2](warmup/python2/alternating-characters.py) [Python3](warmup/python3/alternating-characters.py)
+[Alternating Characters](https://www.hackerrank.com/challenges/alternating-characters): [Python2](warmup/python2/alternating-characters.py) [Python3](warmup/python3/alternating-characters.py) [Java](warmup/java/Alternating_Characters/Solution.java)
