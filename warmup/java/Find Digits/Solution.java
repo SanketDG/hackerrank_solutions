@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class find_digits{
+public class Solution{
     public static void main(String[] args){
         Scanner in = new Scanner(System.in);
         int T = in.nextInt();
