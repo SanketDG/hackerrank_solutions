@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Solution {
+public class Alternating_Characters {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
