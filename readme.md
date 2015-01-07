@@ -16,6 +16,6 @@ These are the solutions of the algotrithmic problems of HackerRank.
 
 [Alternating Characters](https://www.hackerrank.com/challenges/alternating-characters) --> [Python](warmup/python2/alternating-characters.py) | [Java](warmup/java/Alternating_Characters.java)
 
-[The Love-Letter Mystery](https://www.hackerrank.com/challenges/the-love-letter-mystery) --> [Python](warmup/python2/the-love-letter-mystery.py) [Java](warmup/java/The_Love_Letter_Mystery.java)
+[The Love-Letter Mystery](https://www.hackerrank.com/challenges/the-love-letter-mystery) --> [Python](warmup/python2/the-love-letter-mystery.py) | [Java](warmup/java/The_Love_Letter_Mystery.java)
 
 [Filling Jars](https://www.hackerrank.com/challenges/filling-jars) --> [Python](warmup/python2/filling-jars.py)
