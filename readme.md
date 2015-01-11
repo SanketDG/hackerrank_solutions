@@ -4,11 +4,11 @@ These are the solutions of the algotrithmic problems of HackerRank.
 
 ## Warmup
 
-[Find Digits](https://www.hackerrank.com/challenges/find-digits) --> [Python](warmup/python2/find-digits.py) | [Java](warmup/java/Find_Digits.java) [C](warmup/c/find-digits.c)
+[Find Digits](https://www.hackerrank.com/challenges/find-digits) --> [Python](warmup/python2/find-digits.py) | [Java](warmup/java/Find_Digits.java) | [C](warmup/c/find-digits.c)
 
 [Is Fibo](https://www.hackerrank.com/challenges/is-fibo) --> [Python](warmup/python2/is-fibo.py)
 
-[Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree) --> [Python](warmup/python2/utopian-tree.py)
+[Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree) --> [Python](warmup/python2/utopian-tree.py) | [Java](warmup/java/Utopian_Tree.java) | [C](warmup/c/utopian-tree.c)
 
 [Maximizing XOR](https://www.hackerrank.com/challenges/maximizing-xor) --> [Python](warmup/python2/maximizing-xor.py)
 
