@@ -19,3 +19,5 @@ These are the solutions of the algotrithmic problems of HackerRank.
 [The Love-Letter Mystery](https://www.hackerrank.com/challenges/the-love-letter-mystery) --> [Python](warmup/python2/the-love-letter-mystery.py) | [Java](warmup/java/The_Love_Letter_Mystery.java)
 
 [Filling Jars](https://www.hackerrank.com/challenges/filling-jars) --> [Python](warmup/python2/filling-jars.py)
+
+[Angry Children](https://www.hackerrank.com/challenges/angry-children) --> [Python](warmup/python2/angry-children.py) | [Java](warmup/java/Angry_Children.java)
