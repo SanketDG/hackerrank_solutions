@@ -21,3 +21,5 @@ These are the solutions of the algotrithmic problems of HackerRank.
 [Filling Jars](https://www.hackerrank.com/challenges/filling-jars) --> [Python](warmup/python2/filling-jars.py)
 
 [Angry Children](https://www.hackerrank.com/challenges/angry-children) --> [Python](warmup/python2/angry-children.py) | [Java](warmup/java/Angry_Children.java)
+
+[Halloween Party](https://www.hackerrank.com/challenges/halloween-party) --> [Python](warmup/python2/halloween-party.py) | [Java](warmup/java/Halloween_Party.java) | [C](warmup/c/halloween-party.c)
