@@ -25,3 +25,5 @@ These are the solutions of the algotrithmic problems of HackerRank.
 [Halloween Party](https://www.hackerrank.com/challenges/halloween-party) --> [Python](warmup/python2/halloween-party.py) | [Java](warmup/java/Halloween_Party.java) | [C](warmup/c/halloween-party.c)
 
 [Chocolate Feast](https://www.hackerrank.com/challenges/chocolate-feast) --> [Python](warmup/python2/halloween-party.py) | [Java](warmup/python2/java/Chocolate_Feast.java)
+
+[Sherlock and Squares](https://www.hackerrank.com/challenges/sherlock-and-squares) --> [Python](warmup/python2/sherlock_and_squares.py)
