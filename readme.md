@@ -10,7 +10,7 @@ These are the solutions of the algotrithmic problems of HackerRank.
 
 [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree) --> [Python](warmup/python2/utopian-tree.py) | [Java](warmup/java/Utopian_Tree.java) | [C](warmup/c/utopian-tree.c)
 
-[Maximizing XOR](https://www.hackerrank.com/challenges/maximizing-xor) --> [Python](warmup/python2/maximizing-xor.py)
+[Maximizing XOR](https://www.hackerrank.com/challenges/maximizing-xor) --> [Python](warmup/python2/maximizing-xor.py) [Java](warmup/java/Maximizing_XOR.java) [C](warmup/c/maximizing_xor.c)
 
 [Flipping Bits](https://www.hackerrank.com/challenges/flipping-bits) --> [Python](warmup/python2/flipping-bits.py)
 
