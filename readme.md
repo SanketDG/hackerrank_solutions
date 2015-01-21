@@ -30,4 +30,4 @@ These are the solutions of the algotrithmic problems of HackerRank.
 
 [Manasa and Stones](https://www.hackerrank.com/challenges/manasa-and-stones) --> [Python](warmup2/python2/manasa-and-stones.py)
 
-[ACM ICPC Team](https://www.hackerrank.com/challenges/acm-icpc-team) --> [Python](warmup2/python2/acm_icpc_team.py)
+[ACM ICPC Team](https://www.hackerrank.com/challenges/acm-icpc-team) --> [Python](warmup2/python2/acm_icpc_team.py) | [Java](warmup/java/ACM_ICPC_Team.java)
