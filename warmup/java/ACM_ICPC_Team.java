@@ -7,10 +7,10 @@ public class Solution {
         //INPUT
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         String input[] = br.readLine().split(" ");
-        short N = Short.parseShort(input[0]);
-        short M = Short.parseShort(input[1]);
+        int N = Integer.parseInt(input[0]);
+        int M = Integer.parseInt(input[1]);
         byte[][] topics = new byte[N][M];
-        for(short i = 0; i < N; ++i){
+        for(int i = 0; i < N; ++i){
             char[] arr = br.readLine().toCharArray();
             for(int j = 0; j < M; ++j){
                 topics[i][j] = (byte)(arr[j] - '0');
@@ -18,12 +18,12 @@ public class Solution {
         }
 
         //SOLVE
-        short numTeams = 0;
-        short maxTopics = 0;
-        for(short i = 0; i < N; ++i){
-            for(short j = (short)(i+1); j < N; ++j){
-                short numTopics = 0;
-                for(short k = 0; k < M; ++k){
+        int numTeams = 0;
+        int maxTopics = 0;
+        for(int i = 0; i < N; ++i){
+            for(int j = i+1; j < N; ++j){
+                int numTopics = 0;
+                for(int k = 0; k < M; ++k){
                     numTopics += topics[i][k] | topics[j][k];
                 }
                 if (maxTopics < numTopics){
