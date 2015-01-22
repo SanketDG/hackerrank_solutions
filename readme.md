@@ -12,7 +12,7 @@ These are the solutions of the algotrithmic problems of HackerRank.
 
 [Maximizing XOR](https://www.hackerrank.com/challenges/maximizing-xor) --> [Python](warmup/python2/maximizing-xor.py) [Java](warmup/java/Maximizing_XOR.java) [C](warmup/c/maximizing_xor.c)
 
-[Flipping Bits](https://www.hackerrank.com/challenges/flipping-bits) --> [Python](warmup/python2/flipping-bits.py)
+[Flipping Bits](https://www.hackerrank.com/challenges/flipping-bits) --> [Python](warmup/python2/flipping-bits.py) | [Java](warmup/java/Flipping_Bits.java)
 
 [Alternating Characters](https://www.hackerrank.com/challenges/alternating-characters) --> [Python](warmup/python2/alternating-characters.py) | [Java](warmup/java/Alternating_Characters.java)
 
