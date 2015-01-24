@@ -4,11 +4,12 @@ num = map(int, raw_input().split())
 n = []
 num.sort()
 for i in range(length):
-    if num[i] == 0:
+    if num[i] <= 0:
         continue
     else:
         n.append(length - i)
         v = num[i]
-        for j in range(length):
+        for j in range(i, length):
             num[j] -= v
+    print num
 print "\n".join(map(str, n))
