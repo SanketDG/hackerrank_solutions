@@ -34,4 +34,8 @@ These are the solutions of the algotrithmic problems of HackerRank.
 
 ## Implementation
 
-[Cut the Sticks](https://www.hackerrank.com/challenges/cut-the-sticks) --> [Python](implementation/python2/cut-the-sticks.py) [Java](implementation/java/Cut_The_Sticks.java)
+[Cut the Sticks](https://www.hackerrank.com/challenges/cut-the-sticks) --> [Python](implementation/python2/cut-the-sticks.py) | [Java](implementation/java/Cut_The_Sticks.java)
+
+## Arrays and Sorting
+
+[Intro to tutorial challenges](https://www.hackerrank.com/challenges/tutorial-intro) --> [Python](arrays-and-sorting/tutorial-intro.py)
