@@ -18,5 +18,5 @@ int main(void)
         sum += (b-a+1)*k;
     }
 
-    printf("%ld", (long)(floor(sum/n)));
+    printf("%ld", (sum/n));
 }
