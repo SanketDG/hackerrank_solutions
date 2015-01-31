@@ -20,7 +20,7 @@ These are the solutions of the algotrithmic problems of HackerRank.
 
 [The Love-Letter Mystery](https://www.hackerrank.com/challenges/the-love-letter-mystery) --> [Python](warmup/python2/the-love-letter-mystery.py) | [Java](warmup/java/The_Love_Letter_Mystery.java)
 
-[Filling Jars](https://www.hackerrank.com/challenges/filling-jars) --> [Python](warmup/python2/filling-jars.py) [Java](warmup/java/Filling_Jars.java)
+[Filling Jars](https://www.hackerrank.com/challenges/filling-jars) --> [Python](warmup/python2/filling-jars.py) [Java](warmup/java/Filling_Jars.java) [C](warmup/c/filling-jars.c)
 
 [Angry Children](https://www.hackerrank.com/challenges/angry-children) --> [Python](warmup/python2/angry-children.py) | [Java](warmup/java/Angry_Children.java)
 
@@ -40,4 +40,4 @@ These are the solutions of the algotrithmic problems of HackerRank.
 
 ## Arrays and Sorting
 
-[Intro to tutorial challenges](https://www.hackerrank.com/challenges/tutorial-intro) --> [Python](arrays-and-sorting/tutorial-intro.py)
+[Intro to tutorial challenges](https://www.hackerrank.com/challenges/tutorial-intro) --> [Python](arrays-and-sorting/python2/tutorial-intro.py)
