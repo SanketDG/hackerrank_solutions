@@ -28,9 +28,11 @@ These are the solutions of the algotrithmic problems of HackerRank.
 
 [Chocolate Feast](https://www.hackerrank.com/challenges/chocolate-feast) --> [Python](warmup/python2/halloween-party.py) | [Java](warmup/python2/java/Chocolate_Feast.java) | [C](warmup/c/chocolate-feast.c)
 
-[Sherlock and Squares](https://www.hackerrank.com/challenges/sherlock-and-squares) --> [Python](warmup/python2/sherlock-and-squares.py)
+[Sherlock and Squares](https://www.hackerrank.com/challenges/sherlock-and-squares) --> [Python](warmup/python2/sherlock-and-squares.py) [Java](warmup/java/Sherlock_and_Squares.java)
 
 [Manasa and Stones](https://www.hackerrank.com/challenges/manasa-and-stones) --> [Python](warmup2/python2/manasa-and-stones.py)
+
+[Game of Thrones - I](https://www.hackerrank.com/challenges/game-of-thrones) --> [Python](warmup2/python2/game-of-thrones.py)
 
 [ACM ICPC Team](https://www.hackerrank.com/challenges/acm-icpc-team) --> [Python](warmup2/python2/acm_icpc_team.py) | [Java](warmup/java/ACM_ICPC_Team.java)
 
