@@ -36,6 +36,8 @@ These are the solutions of the algotrithmic problems of HackerRank.
 
 [ACM ICPC Team](https://www.hackerrank.com/challenges/acm-icpc-team) --> [Python](warmup2/python2/acm_icpc_team.py) | [Java](warmup/java/ACM_ICPC_Team.java)
 
+[Sherlock and GCD](https://www.hackerrank.com/challenges/sherlock-and-gcd/) --> [Java](warmup2/java/sherlock_and_gcd.java)
+
 ## Implementation
 
 [Cut the Sticks](https://www.hackerrank.com/challenges/cut-the-sticks) --> [Python](implementation/python2/cut-the-sticks.py) | [Java](implementation/java/Cut_The_Sticks.java)
