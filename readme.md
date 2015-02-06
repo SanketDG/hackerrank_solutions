@@ -6,7 +6,7 @@ These are the solutions of the algotrithmic problems of HackerRank.
 
 [Find Digits](https://www.hackerrank.com/challenges/find-digits) --> [Python](warmup/python2/find-digits.py) | [Java](warmup/java/Find_Digits.java) | [C](warmup/c/find-digits.c)
 
-[Lonely Integer](https://www.hackerrank.com/challenges/lonely-integer) --> [Python](warmup/python2/lonely-integer.py)
+[Lonely Integer](https://www.hackerrank.com/challenges/lonely-integer) --> [Python](warmup/python2/lonely-integer.py) [Java](warmup/java/Lonely_Integer.java) [C](warmup/c/lonely_integer.c)
 
 [Is Fibo](https://www.hackerrank.com/challenges/is-fibo) --> [Python](warmup/python2/is-fibo.py)
 
