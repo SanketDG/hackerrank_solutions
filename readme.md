@@ -30,7 +30,7 @@ These are the solutions of the algotrithmic problems of HackerRank.
 
 [Sherlock and Squares](https://www.hackerrank.com/challenges/sherlock-and-squares) --> [Python](warmup/python2/sherlock-and-squares.py) | [Java](warmup/java/Sherlock_and_Squares.java) | [C](warmup/c/sherlock-and-squares.c)
 
-[Manasa and Stones](https://www.hackerrank.com/challenges/manasa-and-stones) --> [Python](warmup2/python2/manasa-and-stones.py)
+[Manasa and Stones](https://www.hackerrank.com/challenges/manasa-and-stones) --> [Python](warmup2/python2/manasa-and-stones.py) | [Java](warmup/java/Manasa_and_Stones.java)
 
 [Game of Thrones - I](https://www.hackerrank.com/challenges/game-of-thrones) --> [Python](warmup2/python2/game-of-thrones.py)
 
