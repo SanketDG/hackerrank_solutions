@@ -40,6 +40,8 @@ These are the solutions of the algotrithmic problems of HackerRank.
 
 [Sherlock and the Beast](https://www.hackerrank.com/challenges/sherlock-and-the-beast) --> [Python](warmup/python2/sherlock-and-the-beast.py)
 
+[Angry Professor](https://www.hackerrank.com/challenges/angry-professor/) --> [Python](warmup/pyton2/angry-professor.py)
+
 ## Implementation
 
 [Cut the Sticks](https://www.hackerrank.com/challenges/cut-the-sticks) --> [Python](implementation/python2/cut-the-sticks.py) | [Java](implementation/java/Cut_The_Sticks.java)
