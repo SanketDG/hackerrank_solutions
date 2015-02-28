@@ -32,7 +32,7 @@ These are the solutions of the algotrithmic problems of HackerRank.
 
 [Manasa and Stones](https://www.hackerrank.com/challenges/manasa-and-stones) --> [Python](warmup2/python2/manasa-and-stones.py) | [Java](warmup/java/Manasa_and_Stones.java)
 
-[Game of Thrones - I](https://www.hackerrank.com/challenges/game-of-thrones) --> [Python](warmup2/python2/game-of-thrones.py) [Java](warmup/java/Game_of_Thrones.java)
+[Game of Thrones - I](https://www.hackerrank.com/challenges/game-of-thrones) --> [Python](warmup2/python2/game-of-thrones.py) | [Java](warmup/java/Game_of_Thrones.java)
 
 [ACM ICPC Team](https://www.hackerrank.com/challenges/acm-icpc-team) --> [Python](warmup2/python2/acm-icpc-team.py) | [Java](warmup/java/ACM_ICPC_Team.java)
 
@@ -40,7 +40,7 @@ These are the solutions of the algotrithmic problems of HackerRank.
 
 [Sherlock and the Beast](https://www.hackerrank.com/challenges/sherlock-and-the-beast) --> [Python](warmup/python2/sherlock-and-the-beast.py)
 
-[Angry Professor](https://www.hackerrank.com/challenges/angry-professor/) --> [Python](warmup/pyton2/angry-professor.py)
+[Angry Professor](https://www.hackerrank.com/challenges/angry-professor/) --> [Python](warmup/pyton2/angry-professor.py) | [Java](warmup/java/Angry_Professor.java)
 
 ## Implementation
 
