@@ -6,13 +6,13 @@ These are the solutions of the algotrithmic problems of HackerRank.
 
 [Find Digits](https://www.hackerrank.com/challenges/find-digits) --> [Python](warmup/python2/find-digits.py) | [Java](warmup/java/Find_Digits.java) | [C](warmup/c/find-digits.c)
 
-[Lonely Integer](https://www.hackerrank.com/challenges/lonely-integer) --> [Python](warmup/python2/lonely-integer.py) | [Java](warmup/java/Lonely_Integer.java) | [C](warmup/c/lonely_integer.c)
+[Lonely Integer](https://www.hackerrank.com/challenges/lonely-integer) --> [Python](warmup/python2/lonely-integer.py) | [Java](warmup/java/Lonely_Integer.java) | [C](warmup/c/lonely-integer.c)
 
 [Is Fibo](https://www.hackerrank.com/challenges/is-fibo) --> [Python](warmup/python2/is-fibo.py)
 
 [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree) --> [Python](warmup/python2/utopian-tree.py) | [Java](warmup/java/Utopian_Tree.java) | [C](warmup/c/utopian-tree.c)
 
-[Maximizing XOR](https://www.hackerrank.com/challenges/maximizing-xor) --> [Python](warmup/python2/maximizing-xor.py) | [Java](warmup/java/Maximizing_XOR.java)| [C](warmup/c/maximizing_xor.c)
+[Maximizing XOR](https://www.hackerrank.com/challenges/maximizing-xor) --> [Python](warmup/python2/maximizing-xor.py) | [Java](warmup/java/Maximizing_XOR.java)| [C](warmup/c/maximizing-xor.c)
 
 [Flipping Bits](https://www.hackerrank.com/challenges/flipping-bits) --> [Python](warmup/python2/flipping-bits.py) | [Java](warmup/java/Flipping_Bits.java)
 
@@ -36,7 +36,7 @@ These are the solutions of the algotrithmic problems of HackerRank.
 
 [ACM ICPC Team](https://www.hackerrank.com/challenges/acm-icpc-team) --> [Python](warmup2/python2/acm-icpc-team.py) | [Java](warmup/java/ACM_ICPC_Team.java)
 
-[Sherlock and GCD](https://www.hackerrank.com/challenges/sherlock-and-gcd/) --> [Python](warmup/python2/sherlock-and-gcd.py) | [Java](warmup/java/Sherlock_and_GCD.java) | [C](warmup/c/sherlock_and_gcd.c)
+[Sherlock and GCD](https://www.hackerrank.com/challenges/sherlock-and-gcd/) --> [Python](warmup/python2/sherlock-and-gcd.py) | [Java](warmup/java/Sherlock_and_GCD.java) | [C](warmup/c/sherlock-and-gcd.c)
 
 [Sherlock and the Beast](https://www.hackerrank.com/challenges/sherlock-and-the-beast) --> [Python](warmup/python2/sherlock-and-the-beast.py)
 
