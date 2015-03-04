@@ -53,3 +53,5 @@ These are the solutions of the algotrithmic problems of HackerRank.
 [Intro to tutorial challenges](https://www.hackerrank.com/challenges/tutorial-intro) --> [Python](arrays-and-sorting/python2/tutorial-intro.py)
 
 [Insertion Sort Part 1](https://www.hackerrank.com/challenges/insertionsort1/) --> [Python](warmup/python2/insertionsort1.py)
+
+[Insertion Sort Part 2](https://www.hackerrank.com/challenges/insertionsort2/) --> [Java](warmup/java/InsertionSort2.java)
