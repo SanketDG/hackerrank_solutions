@@ -42,6 +42,8 @@ These are the solutions of the algotrithmic problems of HackerRank.
 
 [Angry Professor](https://www.hackerrank.com/challenges/angry-professor/) --> [Python](warmup/pyton2/angry-professor.py) | [Java](warmup/java/Angry_Professor.java) | [C](warmup/c/angry-professor.c)
 
+[Taum and B'day](https://www.hackerrank.com/challenges/taum-and-bday) --> [Python](warmup/python2/taum-and-bday.py)
+
 ## Implementation
 
 [Cut the Sticks](https://www.hackerrank.com/challenges/cut-the-sticks) --> [Python](implementation/python2/cut-the-sticks.py) | [Java](implementation/java/Cut_The_Sticks.java)
