@@ -44,13 +44,13 @@ These are the solutions of the algotrithmic problems of HackerRank.
 
 [Taum and B'day](https://www.hackerrank.com/challenges/taum-and-bday) --> [Python](warmup/python2/taum-and-bday.py)
 
+[Extra long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials) --> [Java](implementation/java/Factorial_BigInteger.java)
+
 ## Implementation
 
 [Cut the Sticks](https://www.hackerrank.com/challenges/cut-the-sticks) --> [Python](implementation/python2/cut-the-sticks.py) | [Java](implementation/java/Cut_The_Sticks.java)
 
 [Cavity Map](https://www.hackerrank.com/challenges/cavity-map/) --> [Python](implementation/python2/cavity-map.py) | [Java](implementation/java/Cavity_Map.java)
-
-[Extra long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials) --> [Java](implementation/java/Factorial_BigInteger.java)
 
 ## Arrays and Sorting
 
