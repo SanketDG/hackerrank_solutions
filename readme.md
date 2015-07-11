@@ -50,6 +50,8 @@ These are the solutions of the algotrithmic problems of HackerRank.
 
 [Cavity Map](https://www.hackerrank.com/challenges/cavity-map/) --> [Python](implementation/python2/cavity-map.py) | [Java](implementation/java/Cavity_Map.java)
 
+[Extra long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials) --> [Java](implementation/java/Factorial_BigInteger.java)
+
 ## Arrays and Sorting
 
 [Intro to tutorial challenges](https://www.hackerrank.com/challenges/tutorial-intro) --> [Python](arrays-and-sorting/python2/tutorial-intro.py)
