@@ -8,7 +8,7 @@ These are the solutions of the algotrithmic problems of HackerRank.
 
 [Lonely Integer](https://www.hackerrank.com/challenges/lonely-integer) --> [Python](warmup/python2/lonely-integer.py) | [Java](warmup/java/Lonely_Integer.java) | [C](warmup/c/lonely-integer.c)
 
-[Is Fibo](https://www.hackerrank.com/challenges/is-fibo) --> [Python](warmup/python2/is-fibo.py)
+[Is Fibo](https://www.hackerrank.com/challenges/is-fibo) --> [Python](warmup/python2/is-fibo.py) | [Java](warmup/java/Is_Fibo.java)
 
 [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree) --> [Python](warmup/python2/utopian-tree.py) | [Java](warmup/java/Utopian_Tree.java) | [C](warmup/c/utopian-tree.c)
 
