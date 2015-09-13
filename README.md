@@ -61,3 +61,7 @@ These are the solutions of the algotrithmic problems of HackerRank.
 [Insertion Sort Part 1](https://www.hackerrank.com/challenges/insertionsort1/) --> [Python](arrays-and-sorting/python2/insertionsort1.py)
 
 [Insertion Sort Part 2](https://www.hackerrank.com/challenges/insertionsort2/) --> [Java](arrays-and-sorting/java/InsertionSort2.java)
+
+## Strings
+
+[Funny String](https://www.hackerrank.com/challenges/funny-string) --> [Python3](strings/python/funny-string.py)
