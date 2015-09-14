@@ -64,4 +64,4 @@ These are the solutions of the algotrithmic problems of HackerRank.
 
 ## Strings
 
-[Funny String](https://www.hackerrank.com/challenges/funny-string) --> [Python3](strings/python/funny-string.py)
+[Funny String](https://www.hackerrank.com/challenges/funny-string) --> [Python3](strings/python/funny-string.py) | [Java](strings/java/Funny_String.java)
