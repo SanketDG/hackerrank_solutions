@@ -2,6 +2,8 @@
 
 These are the solutions of the algotrithmic problems of HackerRank.
 
+*Note: I have stopped solving problems in Python2*
+
 ## Warmup
 
 [Find Digits](https://www.hackerrank.com/challenges/find-digits) --> [Python](warmup/python2/find-digits.py) | [Java](warmup/java/Find_Digits.java) | [C](warmup/c/find-digits.c)
@@ -64,6 +66,6 @@ These are the solutions of the algotrithmic problems of HackerRank.
 
 ## Strings
 
-[Funny String](https://www.hackerrank.com/challenges/funny-string) --> [Python3](strings/python/funny-string.py) | [Java](strings/java/Funny_String.java)
+[Funny String](https://www.hackerrank.com/challenges/funny-string) --> [Python](strings/python/funny-string.py) | [Java](strings/java/Funny_String.java)
 
 [Pangrams](https://www.hackerrank.com/challenges/pangrams/) --> [Python](strings/python/pangrams.py)
